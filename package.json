@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornwalljeremy/portfolio-genetator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornwalljeremy/portfolio-genetator/issues"
+  },
+  "homepage": "https://github.com/cornwalljeremy/portfolio-genetator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
